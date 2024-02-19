@@ -1,0 +1,5 @@
+faiss==1.7.2
+argparse==1.1
+transformers==4.37.2
+torch==2.0.0
+tqdm==4.66.2
